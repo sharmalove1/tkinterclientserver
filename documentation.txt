@@ -1,0 +1,5 @@
+Introduction to assignment:
+The assignment consist a app which is Basically used to get the news highlights and summary of news for story news channels
+
+Requirements:
+Python, tkinter, regex, urllib  
